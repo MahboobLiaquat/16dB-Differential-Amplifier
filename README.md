@@ -1,4 +1,4 @@
-6 dB Differential Amplifier
+16 dB Differential Amplifier
 
 This project features a custom-built, two-stage differential amplifier designed to amplify weak differential signals while rejecting high-frequency common-mode displacement current. It is ideal for use in experimental setups such as Time-of-Flight and Interrupted Field Time-of-Flight measurement techniques, where rejecting common mode signal and amplifying the weak photocurrent signals from samples such as Amorphous Selenium are critical.
 
